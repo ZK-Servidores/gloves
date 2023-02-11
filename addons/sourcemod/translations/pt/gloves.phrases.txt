@@ -34,6 +34,6 @@
 	}
 	"SetFloat"
 	{
-		"pt"	"Condição das Luvas: "
+		"pt"	"Desgaste das Luvas: "
 	}
 }
